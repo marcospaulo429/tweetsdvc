@@ -1,0 +1,5 @@
+outs:
+- md5: 8cb72d0853fa4a42b872032865cda14d
+  size: 2792664
+  hash: md5
+  path: tweets2020.csv
